@@ -17,7 +17,7 @@ export default function Portfölj () {
                     <h1 className="title">Min Portfölj</h1>
                     <div className="portfolio-list">
                         <div className="portfolio-item">
-                            <img src="/images/projekt-1.png" alt="Projekt 1" className="portfolio-image" />
+                            <img src="./images/projekt-1.png" alt="Projekt 1" className="portfolio-image" />
                             <h2>Bankhanteringssystem</h2>
                             <button className="modal-trigger" onClick={() => toggleModal('modal1')}>Visa mer</button>
                             {activeModal === 'modal1' && (
@@ -32,7 +32,7 @@ export default function Portfölj () {
                         </div>
 
                         <div className="portfolio-item">
-                            <img src="/images/projekt-2.png" alt="Projekt 2" className="portfolio-image" />
+                            <img src="./images/projekt-2.png" alt="Projekt 2" className="portfolio-image" />
                             <h2>Skoladministrationssystem</h2>
                             <button className="modal-trigger" onClick={() => toggleModal('modal2')}>Visa mer</button>
                             {activeModal === 'modal2' && (
@@ -60,7 +60,7 @@ export default function Portfölj () {
                         </div>
 
                         <div className="portfolio-item">
-                            <img src="/images/projekt-3.png" alt="Projekt 3" className="portfolio-image" />
+                            <img src="./images/projekt-3.png" alt="Projekt 3" className="portfolio-image" />
                             <h2>Personlig Portföljsida</h2>
                             <button className="modal-trigger" onClick={() => toggleModal('modal3')}>Visa mer</button>
                             {activeModal === 'modal3' && (

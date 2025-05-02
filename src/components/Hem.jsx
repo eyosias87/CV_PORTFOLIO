@@ -22,7 +22,7 @@ export default function Hem() {
                 <section id="profile">
                     <div className="section-container">
                         <div className="section__pic-container">
-                            <img src="/images/profile-pic.jpg" alt="Eyosias Mamo Bild" width="300" height="300" className="profile-pic" />
+                            <img src="./images/profile-pic.jpg" alt="Eyosias Mamo Bild" width="300" height="300" className="profile-pic" />
                         </div>
                         <div className="section__text">
                             <h1>Välkommen till mitt Portfölj</h1>
