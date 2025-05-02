@@ -10,7 +10,7 @@ import './index.css';
 export default function App() {
 
     return (
-        <Router>
+        <Router basename="/CV_PORTFOLIO">
             {/* Header component is used here */}
             <Header 
                 links={[
