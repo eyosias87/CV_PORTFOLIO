@@ -10,7 +10,7 @@ export default function OmMig () {
                     <h1 className="title">Om Mig</h1>
                     <div className="section-container">
                         <div className="section__pic-container">
-                            <img src="/images/profile-pic2.jpg" alt="Min Bild" width="300" height="300" className="about-pic" />
+                        <img src="/CV_PORTFOLIO/images/profile-pic2.jpg" alt="Min Bild" width="300" height="300" className="about-pic" />
                         </div>
                         <div className="section__text">
                             <p className="section__text__p1">Hej, jag heter Eyosias Mamo!</p>
