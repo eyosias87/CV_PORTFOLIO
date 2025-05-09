@@ -10,7 +10,7 @@ export default function OmMig () {
                     <h1 className="title">Om Mig</h1>
                     <div className="section-container">
                         <div className="section__pic-container">
-                            <img src="./images/profile-pic2.jpg" alt="Min Bild" width="300" height="300" className="about-pic" />
+                            <img src="/images/profile-pic2.jpg" alt="Min Bild" width="300" height="300" className="about-pic" />
                         </div>
                         <div className="section__text">
                             <p className="section__text__p1">Hej, jag heter Eyosias Mamo!</p>
@@ -22,13 +22,13 @@ export default function OmMig () {
 
                     <div id="socials-container">
                         <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">
-                            <img src="./images/linkedin.png" alt="LinkedIn" className="icon" />
+                            <img src="/images/linkedin.png" alt="LinkedIn" className="icon" />
                         </a>
                         <a href="https://github.com" target="_blank" rel="noopener noreferrer">
-                            <img src="./images/github.png" alt="GitHub" className="icon" />
+                            <img src="/images/github.png" alt="GitHub" className="icon" />
                         </a>
                         <a href="mailto:your.yizench8@gmail.com">
-                            <img src="./images/email.png" alt="E-post" className="icon" />
+                            <img src="/images/email.png" alt="E-post" className="icon" />
                         </a>
                     </div>
                 </section>
