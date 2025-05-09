@@ -1,0 +1,36 @@
+{
+  "education": [
+    {
+      "school": "Chas Academy",
+      "degree": "Fullstack Developer",
+      "year": "2023 - Nuvarande"
+    },
+    {
+      "school": "Lexicon IT-Proffs",
+      "degree": "IT Support Technician",
+      "year": "2023 - 2024"
+    },
+    {
+      "school": "Andinet International College",
+      "degree": "IT Support Services",
+      "year": "2018 - 2019"
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "Lexikon Support AB",
+      "role": "Första Linjens IT Support Intern",
+      "year": "2024"
+    },
+    {
+      "company": "Dell Software and Hardware Maintenance",
+      "role": "IT-tekniker",
+      "year": "2021 - 2022"
+    },
+    {
+      "company": "SoloTe International Hotel",
+      "role": "IT Support/Systemadministratör",
+      "year": "2016 - 2021"
+    }
+  ]
+}
